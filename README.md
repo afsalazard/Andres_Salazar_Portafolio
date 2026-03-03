@@ -134,5 +134,5 @@ to transform raw data into structured, reliable, and decision-oriented informati
 
 ## <img width="45" height="45" alt="redes-sociales" src="https://github.com/user-attachments/assets/5ffad57e-9a0a-4a9b-837e-ff4d35a77377" /> Contact
 
-LinkedIn: (https://www.linkedin.com/in/ing-andres-salazar-daza/)  
+LinkedIn: https://www.linkedin.com/in/ing-andres-salazar-data/  
 Email: afsalazard92@gmail.com
